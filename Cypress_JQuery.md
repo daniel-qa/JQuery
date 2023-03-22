@@ -1,6 +1,7 @@
 * 設定 Cookies
 https://www.runoob.com/jquery/jquery-cookie-plugin.html
 
+* 說明
 ```
  * Create a cookie with the given key and value and other optional parameters.
  *
